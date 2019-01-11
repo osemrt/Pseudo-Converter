@@ -1,0 +1,15 @@
+PROCEDURE MAIN()
+BEGIN
+END
+PROCEDURE functionName()
+RETURN VOID
+FOR i_i <- 0..n_i LOOP: for(i=0; i<n; i++) 
+WHILE ( (i_i < n_i) AND (j_i > m_i)) DO
+WHILE ( (i_i < n_i) OR (j_i > m_i)) DO
+IF ( (i_i < n_i) AND (j_i > m_i)) THEN
+IF ( (i_i < n_i) OR (j_i > m_i)) THEN
+IF ( (i_i EQUAL n_i) ) THEN
+IF ( (i_i NOT_EQUAL n_i) ) THEN
+PRINT_LINE “hello world!”
+PRINT_LINE “$i_i + $j_i degeri= $k_i olur”
+GET_VAL “$arr_i[k_i]”
